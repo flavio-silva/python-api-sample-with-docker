@@ -1,0 +1,5 @@
+clientes_venv/*
+__pycache__/*
+*.pyc -e clientes_venv/*
+__pycache__/*
+*.pyc
